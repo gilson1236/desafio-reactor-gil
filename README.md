@@ -10,3 +10,13 @@ Para começarmos a nos habituar com programação reativa criamos esse projeto c
     (para esse desafio vamos considerar que o usário é valido quando ele tem uma senha com mais de 8 caractéres).
 
 Para fazer a verificação usando os testes rode o comando *gradle test* ( considerando que você tenha o gradle instalado em seu computador)
+
+Desafio feito utilizando os seguintes recursos:
+
+<div><br>
+  * Java 17. <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><br>
+  * Gradle <img align="center" alt="Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"><br>
+  * Intellj IDEA Community Edition. <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"><br>
+  * Controle de versão GIT. <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"><br>
+  * JUnit 5. <img align="center" alt="JUnit5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg"><br>
+</div>
